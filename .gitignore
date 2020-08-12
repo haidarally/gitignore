@@ -1,3 +1,4 @@
 #the git ignore file
 file1.txt
 *.php
+*.txt
